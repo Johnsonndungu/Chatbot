@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hello to"
+    },
+    {
+      "question": "who are you?",
+      "answer": "Am a chatbot assistant."
+    },
+    {
+      "question": "What is your name?",
+      "answer": "Am a bot"
+    }
+  ]
+}
